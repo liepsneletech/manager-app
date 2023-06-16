@@ -1,4 +1,4 @@
 # manager-app
 
---Spring Boot
---JPA
+- Spring Boot
+- JPA
